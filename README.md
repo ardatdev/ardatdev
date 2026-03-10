@@ -1,6 +1,6 @@
 Founder of Artado Project
 
-C#, C/C++ and Web developer
+Developer and Linguist
 
 ```
  ________  ________  _________  ________  ________  ________     
